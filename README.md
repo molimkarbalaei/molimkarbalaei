@@ -8,7 +8,7 @@ const molim = {
   
   tools: [React, Redux],
   
-  background: "bachelor of civil engineering and master of safty engineering for transport" ,
+  background: "bachelor of civil engineering and master of safety engineering for transport" ,
   
  challenge: "I am currently working on my knowledge"
 }
