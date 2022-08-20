@@ -4,7 +4,7 @@ const molim = {
 
   pronouns: "she" | "her",
   
-  code: [Javascript, HTML, CSS],
+  code: [Javascript, HTML, CSS, Tailwind],
   
   tools: [React, Redux],
   
