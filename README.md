@@ -3,14 +3,18 @@
 
 ```js
 
-const Javascript = 'javascript'
-const langs = [JavaScript]
-
+  const Javascript = 'javascript'
+  const HTML = 'HTML'
+  const CSS = 'CSS'
+  const Tailwind = 'Tailwind'
+  
 const molim = {
   
   pronouns: "she" | "her",
+
+  langs: [Javascript, HTML, CSS],
   
-  code: [Javascript, HTML, CSS, Tailwind],
+  styling: [Tailwind],
   
   tools: [React, Redux],
   
