@@ -12,17 +12,13 @@
 
   
 const molim = {
-  
+ 
   pronouns: "she" | "her",
-
   langs: [Javascript, HTML, CSS],
-   
   styling: [Tailwind],
-  
   tools: [React, Redux],
   background: "bachelor of civil engineering and master of safety engineering for transport" ,
-  
- challenge: "I am currently working on my knowledge"
+  challenge: "I am currently working on my knowledge"
 }
 ```
 
@@ -31,25 +27,4 @@ const molim = {
 - 📫 How to reach me: [Email.me](Mohade3.karbalaei@gmail.com)
 
 
-  const Javascript = 'javascript'
-  const HTML = 'HTML'
-  const CSS = 'CSS'
-  const Tailwind = 'Tailwind'
-  const React = "React"
-  const Redux = "Redux";
-  
-const molim = {
-  
-  pronouns: "she" | "her",
 
-  langs: [Javascript, HTML, CSS],
-   
-  styling: [Tailwind],
-  
-  tools: [React, Redux],
-  
-  background: "bachelor of civil engineering and master of safety engineering for transport" ,
-  
- challenge: "I am currently working on my knowledge"
-}
-```
