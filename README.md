@@ -20,25 +20,15 @@ const molim = {
   
   tools: [React, Redux], -->
   const languages = [
-  {
-    name: Javascript,
-    color: "#f1e05a",
+  {name: Javascript,
   },
-  {
-    name: HTML,
-    color: "#e34c26",
+  {name: HTML, 
   },
-  {
-    name: CSS,
-    color: "#563d7c",
+  {name: CSS,
   },
-  {
-    name: Tailwind,
-    color: "#0366d6",
+  {name: Tailwind,
   },
-  {
-    name: React,
-   
+  {name: React,
   },
 ];
   background: "bachelor of civil engineering and master of safety engineering for transport" ,
