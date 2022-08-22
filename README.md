@@ -9,16 +9,7 @@
   const Tailwind = 'Tailwind'
   const React = "React"
   const Redux = "Redux";
-  
-const molim = {
-  
-  pronouns: "she" | "her",
 
-<!--   langs: [Javascript, HTML, CSS],
-  
-  styling: [Tailwind],
-  
-  tools: [React, Redux], -->
   const languages = [
   {name: Javascript,
   },
