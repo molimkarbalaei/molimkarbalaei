@@ -14,12 +14,33 @@ const molim = {
   
   pronouns: "she" | "her",
 
-  langs: [Javascript, HTML, CSS],
+<!--   langs: [Javascript, HTML, CSS],
   
   styling: [Tailwind],
   
-  tools: [React, Redux],
-  
+  tools: [React, Redux], -->
+  const languages = [
+  {
+    name: Javascript,
+    color: "#f1e05a",
+  },
+  {
+    name: HTML,
+    color: "#e34c26",
+  },
+  {
+    name: CSS,
+    color: "#563d7c",
+  },
+  {
+    name: Tailwind,
+    color: "#0366d6",
+  },
+  {
+    name: React,
+   
+  },
+];
   background: "bachelor of civil engineering and master of safety engineering for transport" ,
   
  challenge: "I am currently working on my knowledge"
