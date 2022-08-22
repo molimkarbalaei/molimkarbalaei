@@ -3,6 +3,9 @@
 
 ```js
 
+const Javascript = 'javascript'
+const langs = [JavaScript]
+
 const molim = {
   
   pronouns: "she" | "her",
