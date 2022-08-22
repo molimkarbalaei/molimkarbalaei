@@ -7,6 +7,8 @@
   const HTML = 'HTML'
   const CSS = 'CSS'
   const Tailwind = 'Tailwind'
+  const React = "React"
+  const Redux = "Redux";
   
 const molim = {
   
