@@ -1,8 +1,10 @@
+### hey, I'm Molim 👋
+
+
 ```js
 
 const molim = {
-  ### hey, I'm Molim 👋
-
+  
   pronouns: "she" | "her",
   
   code: [Javascript, HTML, CSS, Tailwind],
