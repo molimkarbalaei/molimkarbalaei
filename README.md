@@ -7,6 +7,7 @@ export const MolimKarbalaei = {
   pronouns: ['she', 'her'],
   langs: ['JavaScript', 'HTML', 'CSS'],
   tools: ['React', 'Redux','Tailwind'],
+  experieceYear: 1,
   background: 'bachelor of civil engineering and master of safety engineering for transport' ,
   challenge: 'finding a job that improves my knowledge'
 }
