@@ -3,22 +3,16 @@
 
 ```js
 
-  const Javascript = 'javascript'
-  const HTML = 'HTML'
-  const CSS = 'CSS'
-  const Tailwind = 'Tailwind'
-  const React = "React"
-  const Redux = "Redux";
+ 
 
   
-const molim = {
+export const MolimKarbalaei = { 
  
-  pronouns: "she" | "her",
-  langs: [Javascript, HTML, CSS],
-  styling: [Tailwind],
-  tools: [React, Redux],
-  background: "bachelor of civil engineering and master of safety engineering for transport" ,
-  challenge: "I am currently working on my knowledge"
+  pronouns: ['she', 'her'],
+  langs: ['Javascrip't, 'HTML', 'CSS'],
+  tools: ['React', 'Redux','Tailwind'],
+  background: 'bachelor of civil engineering and master of safety engineering for transport' ,
+  challenge: 'I am currently working on my knowledge'
 }
 ```
 
