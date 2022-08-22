@@ -11,17 +11,9 @@
   const Redux = "Redux";
 
   const languages = [
-  {name: Javascript,
-  },
-  {name: HTML, 
-  },
-  {name: CSS,
-  },
-  {name: Tailwind,
-  },
-  {name: React,
-  },
-];
+  {Javascript, HTML, CSS}]
+  const styling = {Tailwind}
+  
   background: "bachelor of civil engineering and master of safety engineering for transport" ,
   
  challenge: "I am currently working on my knowledge"
