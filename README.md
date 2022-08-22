@@ -2,10 +2,6 @@
 
 
 ```js
-
- 
-
-  
 export const MolimKarbalaei = { 
  
   pronouns: ['she', 'her'],
