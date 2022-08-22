@@ -8,7 +8,7 @@ export const MolimKarbalaei = {
   langs: ['JavaScript', 'HTML', 'CSS'],
   tools: ['React', 'Redux','Tailwind'],
   background: 'bachelor of civil engineering and master of safety engineering for transport' ,
-  challenge: 'I am currently working on my knowledge'
+  challenge: 'finding a job that improves my knowledge'
 }
 ```
 
