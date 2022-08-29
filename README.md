@@ -15,7 +15,7 @@ export const MolimKarbalaei = {
 
 - 🔭 I’m currently working on open source projects.
 - 🌱 I’m currently learning React more and more.
-- 📫 How to reach me: [Email.me](Mohade3.karbalaei@gmail.com)
+- 📫 How to reach me: [Email me](mailto:molim.karbalaei@gmail.com)
 
 
 
