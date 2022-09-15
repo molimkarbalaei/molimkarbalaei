@@ -9,7 +9,7 @@ export const MolimKarbalaei = {
   tools: ['React', 'Redux','Tailwind'],
   experieceYear: 1,
   background: 'bachelor of civil engineering and master of safety engineering for transport' ,
-  challenge: 'finding a job that improves my knowledge'
+  challenge: 'Improves my knowledge,so, The more the merrier!'
 }
 ```
 
