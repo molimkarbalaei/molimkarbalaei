@@ -14,7 +14,7 @@ export const MolimKarbalaei = {
 ```
 
 - 🔭 I’m working on open source projects sometimes in my free time.
-- 🌱 I’m currently learning React more and more.
+- 🌱 I’m currently working on React and Redux.
 - 📫 How to reach me: [Email me](mailto:molim.karbalaei@gmail.com)
 
 
