@@ -1,18 +1,5 @@
 # Hey, I'm Molim 👋
 
-
-```js
-export const MolimKarbalaei = { 
- 
-  pronouns: ['she', 'her'],
-  langs: ['JavaScript', 'HTML', 'CSS'],
-  tools: ['React', 'Redux','Tailwind', 'MUI'],
-  experieceYear: '1 year and counting',
-  background: 'Bachelor of civil engineering and master of safety engineering for transport' ,
-  challenge: 'Learning as much as I can!'
-}
-```
-
 - 🔭 I’m working on different projects in my free time.
 - 🌱 I’m learning several technologies to increase my skills pool.
 - 📫 How to reach me: [Email me](mailto:molim.karbalaei@gmail.com) or [check my Linkedin](https://www.linkedin.com/in/molim-karbalaei/)
